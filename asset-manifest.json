@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.68f6b08b.css",
-    "main.js": "/static/js/main.4b5ccbc0.js",
-    "static/js/787.7015099c.chunk.js": "/static/js/787.7015099c.chunk.js",
-    "index.html": "/index.html",
-    "main.68f6b08b.css.map": "/static/css/main.68f6b08b.css.map",
-    "main.4b5ccbc0.js.map": "/static/js/main.4b5ccbc0.js.map",
-    "787.7015099c.chunk.js.map": "/static/js/787.7015099c.chunk.js.map"
+    "main.css": "/lk-band_news/static/css/main.68f6b08b.css",
+    "main.js": "/lk-band_news/static/js/main.06ccb326.js",
+    "static/js/787.7015099c.chunk.js": "/lk-band_news/static/js/787.7015099c.chunk.js",
+    "index.html": "/lk-band_news/index.html",
+    "main.68f6b08b.css.map": "/lk-band_news/static/css/main.68f6b08b.css.map",
+    "main.06ccb326.js.map": "/lk-band_news/static/js/main.06ccb326.js.map",
+    "787.7015099c.chunk.js.map": "/lk-band_news/static/js/787.7015099c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.68f6b08b.css",
-    "static/js/main.4b5ccbc0.js"
+    "static/js/main.06ccb326.js"
   ]
 }
